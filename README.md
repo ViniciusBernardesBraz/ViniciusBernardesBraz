@@ -24,9 +24,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=00f7ff)
 ![HTML5](https://img.shields.io/badge/-HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=00f7ff)
 ![CSS3](https://img.shields.io/badge/-CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=00f7ff)
-![Java](https://img.shields.io/badge/-Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=00f7ff)
 
-![Power BI](https://img.shields.io/badge/-Power%20BI-0d1117?style=for-the-badge&logo=powerbi&logoColor=00f7ff)
 ![Looker Studio](https://img.shields.io/badge/-Looker%20Studio-0d1117?style=for-the-badge&logo=googleanalytics&logoColor=00f7ff)
 ![Excel](https://img.shields.io/badge/-Excel-0d1117?style=for-the-badge&logo=microsoft-excel&logoColor=00f7ff)
 ![Git](https://img.shields.io/badge/-Git-0d1117?style=for-the-badge&logo=git&logoColor=00f7ff)
