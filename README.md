@@ -54,13 +54,6 @@
 
 ---
 
-## 🐍 Snake Graph  
-<div align="center">
-  <img src="https://github.com/ViniciusBernardesBraz/ViniciusBernardesBraz/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
----
-
 ## 🌐 Contato  
 💼 [LinkedIn](https://www.linkedin.com/in/vinicius-bernardes-braz-929b24241)  
 💻 [GitHub](https://github.com/ViniciusBernardesBraz)
