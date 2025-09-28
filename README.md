@@ -1,6 +1,6 @@
 <!-- Futuristic GitHub Profile README -->
 
-<h1 align="center">⚡ Vinicius Braz ⚡</h1>
+<h1 align="center"> Vinicius Bernardes Braz </h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=00F7FF&center=true&vCenter=true&width=500&lines=Analista+de+Dados;Desenvolvedor+Web;Automação+e+Inovação;Sempre+aprendendo+e+evoluindo" alt="Typing SVG" />
 </p>
@@ -64,7 +64,6 @@
 ---
 
 ## 🌐 Contato  
-📩 **E-mail:** viniciusbernardesbraz@outlook.com  
 💼 [LinkedIn](https://www.linkedin.com/in/vinicius-bernardes-braz-929b24241)  
 💻 [GitHub](https://github.com/ViniciusBernardesBraz)
 
